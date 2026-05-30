@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="450.0" y="34" text-anchor="middle" font-size="24" font-family="Arial" font-weight="700">MOLT Price Change Windows</text>
+<line x1="180" y1="60" x2="180" y2="440" stroke="#333"/>
+<rect x="180" y="70.0" width="680.0" height="42.0" fill="#2f7dd1"/><text x="172" y="98.6" text-anchor="end" font-size="15">h1</text><text x="868.0" y="98.6" font-size="14">1.21%</text><rect x="180" y="190.0" width="-354.0" height="42.0" fill="#2f7dd1"/><text x="172" y="218.6" text-anchor="end" font-size="15">h6</text><text x="-166.0" y="218.6" font-size="14">-0.63%</text><rect x="180" y="310.0" width="-488.9" height="42.0" fill="#2f7dd1"/><text x="172" y="338.6" text-anchor="end" font-size="15">h24</text><text x="-300.9" y="338.6" font-size="14">-0.87%</text>
+<text x="450.0" y="490" text-anchor="middle" font-size="13" font-family="Arial">Source: DexScreener and GeckoTerminal public APIs, checked live during task execution.</text>
+</svg>
