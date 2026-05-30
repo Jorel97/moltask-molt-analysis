@@ -1,0 +1,695 @@
+{
+  "checked_at": "2026-05-30T01:36:25Z",
+  "token_contract": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+  "chain": "Base",
+  "name": "Moltbook",
+  "symbol": "MOLT",
+  "decimals": 18,
+  "normalized_total_supply": 100000000000.0,
+  "price_usd": 1.473269365e-05,
+  "fdv_usd": 1473269.33314016,
+  "market_cap_usd": 1473269.365,
+  "geckoterminal_total_reserve_usd": 498067.2229113115,
+  "geckoterminal_volume_h24": 25224.4579251557,
+  "dexscreener_pairs": [
+    {
+      "dex": "uniswap",
+      "pair": "0x15f351bf1637b43d70631ba95fb9bbb1ff21761c29b034c1b380aecb922464dd",
+      "quote": "WETH",
+      "price_usd": 1.46e-05,
+      "liquidity_usd": 1400046.55,
+      "volume_h24": 12115.63,
+      "buys_h24": 36,
+      "sells_h24": 239,
+      "url": "https://dexscreener.com/base/0x15f351bf1637b43d70631ba95fb9bbb1ff21761c29b034c1b380aecb922464dd"
+    },
+    {
+      "dex": "uniswap",
+      "pair": "0x8105b099852d25f175e2ddd28686aa0aa35aa8500727bb21ae866534de87519f",
+      "quote": "USDC",
+      "price_usd": 1.451e-05,
+      "liquidity_usd": 35091.21,
+      "volume_h24": 38.6,
+      "buys_h24": 8,
+      "sells_h24": 19,
+      "url": "https://dexscreener.com/base/0x8105b099852d25f175e2ddd28686aa0aa35aa8500727bb21ae866534de87519f"
+    },
+    {
+      "dex": "uniswap",
+      "pair": "0xf78ebaf950d70c30c69100762f914298affd1936a85716f9147956eed11582b6",
+      "quote": "ETH",
+      "price_usd": 1.464e-05,
+      "liquidity_usd": 20423.54,
+      "volume_h24": 263.81,
+      "buys_h24": 10,
+      "sells_h24": 25,
+      "url": "https://dexscreener.com/base/0xf78ebaf950d70c30c69100762f914298affd1936a85716f9147956eed11582b6"
+    },
+    {
+      "dex": "uniswap",
+      "pair": "0xa202a439ce61451114e87665917f9011c3c9f6b2a70272765e3b03ee7fac1c41",
+      "quote": "ETH",
+      "price_usd": 1.535e-05,
+      "liquidity_usd": 13707.6,
+      "volume_h24": 0.5,
+      "buys_h24": 0,
+      "sells_h24": 1,
+      "url": "https://dexscreener.com/base/0xa202a439ce61451114e87665917f9011c3c9f6b2a70272765e3b03ee7fac1c41"
+    },
+    {
+      "dex": "uniswap",
+      "pair": "0x6F3a1B2054d091b5C14EA8c720142c9EBC4387C1",
+      "quote": "WETH",
+      "price_usd": 1.462e-05,
+      "liquidity_usd": 9347.58,
+      "volume_h24": 2514.05,
+      "buys_h24": 43,
+      "sells_h24": 38,
+      "url": "https://dexscreener.com/base/0x6f3a1b2054d091b5c14ea8c720142c9ebc4387c1"
+    },
+    {
+      "dex": "aerodrome",
+      "pair": "0x85Fb468A5E65a537C5Ac767776599708a3D41046",
+      "quote": "WETH",
+      "price_usd": 1.473e-05,
+      "liquidity_usd": 5538.9,
+      "volume_h24": 9952.13,
+      "buys_h24": 186,
+      "sells_h24": 242,
+      "url": "https://dexscreener.com/base/0x85fb468a5e65a537c5ac767776599708a3d41046"
+    },
+    {
+      "dex": "uniswap",
+      "pair": "0x852aE1DA9ec34848C0b1531e0a6C4E0c141c30f5",
+      "quote": "USDC",
+      "price_usd": 1.455e-05,
+      "liquidity_usd": 2917.28,
+      "volume_h24": 346.98,
+      "buys_h24": 45,
+      "sells_h24": 56,
+      "url": "https://dexscreener.com/base/0x852ae1da9ec34848c0b1531e0a6c4e0c141c30f5"
+    },
+    {
+      "dex": "uniswap",
+      "pair": "0x48f7b84cdd96e830d67d1c703120b12b41408c4bb1b2803b49a238e22603267e",
+      "quote": "MOLT",
+      "price_usd": 4.324e-07,
+      "liquidity_usd": 668.85,
+      "volume_h24": 33.91,
+      "buys_h24": 10,
+      "sells_h24": 11,
+      "url": "https://dexscreener.com/base/0x48f7b84cdd96e830d67d1c703120b12b41408c4bb1b2803b49a238e22603267e"
+    },
+    {
+      "dex": "uniswap",
+      "pair": "0xB63C0A0d2223b21b7c68D4d11cFdfAE3588fD46F",
+      "quote": "🌙8",
+      "price_usd": 1.512e-05,
+      "liquidity_usd": 351.32,
+      "volume_h24": 14.35,
+      "buys_h24": 5,
+      "sells_h24": 6,
+      "url": "https://dexscreener.com/base/0xb63c0a0d2223b21b7c68d4d11cfdfae3588fd46f"
+    },
+    {
+      "dex": "pancakeswap",
+      "pair": "0x56acfbF8c22467F0FE27089fB755354488933b26",
+      "quote": "WETH",
+      "price_usd": 1.447e-05,
+      "liquidity_usd": 11.38,
+      "volume_h24": 0.2,
+      "buys_h24": 1,
+      "sells_h24": 4,
+      "url": "https://dexscreener.com/base/0x56acfbf8c22467f0fe27089fb755354488933b26"
+    },
+    {
+      "dex": "pancakeswap",
+      "pair": "0xFB00AD2c531D32d1914D9faDFfC9bb7EC2719B19",
+      "quote": "WETH",
+      "price_usd": 1.439e-05,
+      "liquidity_usd": 0.22,
+      "volume_h24": 0.0,
+      "buys_h24": 1,
+      "sells_h24": 0,
+      "url": "https://dexscreener.com/base/0xfb00ad2c531d32d1914d9fadffc9bb7ec2719b19"
+    },
+    {
+      "dex": "aerodrome",
+      "pair": "0x79D82b0218F48D748B64f4087BfEC5979E5145b8",
+      "quote": "MOLT",
+      "price_usd": 0.0,
+      "liquidity_usd": 0.0,
+      "volume_h24": 0.0,
+      "buys_h24": 0,
+      "sells_h24": 2,
+      "url": "https://dexscreener.com/base/0x79d82b0218f48d748b64f4087bfec5979e5145b8"
+    },
+    {
+      "dex": "aerodrome",
+      "pair": "0x513e828692e35337cFBc3B53Fab876d4127e1889",
+      "quote": "MOLT",
+      "price_usd": 0.0,
+      "liquidity_usd": 0.0,
+      "volume_h24": 0.0,
+      "buys_h24": 0,
+      "sells_h24": 2,
+      "url": "https://dexscreener.com/base/0x513e828692e35337cfbc3b53fab876d4127e1889"
+    }
+  ],
+  "geckoterminal_top_pools": [
+    {
+      "name": "MOLT / WETH",
+      "address": "0x15f351bf1637b43d70631ba95fb9bbb1ff21761c29b034c1b380aecb922464dd",
+      "reserve_usd": 1503156.4982,
+      "volume_h24": 12091.8555215121,
+      "price_change": {
+        "m5": "0",
+        "m15": "0.473",
+        "m30": "0.98",
+        "h1": "1.35",
+        "h6": "2.03",
+        "h24": "-1.12"
+      },
+      "transactions": {
+        "m5": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        },
+        "m15": {
+          "buys": 2,
+          "sells": 0,
+          "buyers": 2,
+          "sellers": 0
+        },
+        "m30": {
+          "buys": 4,
+          "sells": 0,
+          "buyers": 4,
+          "sellers": 0
+        },
+        "h1": {
+          "buys": 11,
+          "sells": 0,
+          "buyers": 10,
+          "sellers": 0
+        },
+        "h6": {
+          "buys": 19,
+          "sells": 57,
+          "buyers": 17,
+          "sellers": 21
+        },
+        "h24": {
+          "buys": 34,
+          "sells": 197,
+          "buyers": 31,
+          "sellers": 64
+        }
+      },
+      "dex_id": "uniswap-v4-base"
+    },
+    {
+      "name": "MOLT / WETH 0.3%",
+      "address": "0x85fb468a5e65a537c5ac767776599708a3d41046",
+      "reserve_usd": 5535.8634,
+      "volume_h24": 9938.9153268857,
+      "price_change": {
+        "m5": "-0.01",
+        "m15": "0.044",
+        "m30": "1.024",
+        "h1": "1.07",
+        "h6": "1.17",
+        "h24": "-0.41"
+      },
+      "transactions": {
+        "m5": {
+          "buys": 0,
+          "sells": 4,
+          "buyers": 0,
+          "sellers": 4
+        },
+        "m15": {
+          "buys": 1,
+          "sells": 7,
+          "buyers": 1,
+          "sellers": 7
+        },
+        "m30": {
+          "buys": 1,
+          "sells": 8,
+          "buyers": 1,
+          "sellers": 8
+        },
+        "h1": {
+          "buys": 1,
+          "sells": 13,
+          "buyers": 1,
+          "sellers": 13
+        },
+        "h6": {
+          "buys": 18,
+          "sells": 28,
+          "buyers": 12,
+          "sellers": 25
+        },
+        "h24": {
+          "buys": 186,
+          "sells": 242,
+          "buyers": 101,
+          "sellers": 122
+        }
+      },
+      "dex_id": "aerodrome-slipstream-2"
+    },
+    {
+      "name": "MOLT / WETH 1%",
+      "address": "0x6f3a1b2054d091b5c14ea8c720142c9ebc4387c1",
+      "reserve_usd": 9347.4717,
+      "volume_h24": 2510.8281388533,
+      "price_change": {
+        "m5": "0",
+        "m15": "0",
+        "m30": "0.614",
+        "h1": "2.91",
+        "h6": "-0.46",
+        "h24": "0.45"
+      },
+      "transactions": {
+        "m5": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "m15": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        },
+        "m30": {
+          "buys": 2,
+          "sells": 0,
+          "buyers": 2,
+          "sellers": 0
+        },
+        "h1": {
+          "buys": 3,
+          "sells": 1,
+          "buyers": 3,
+          "sellers": 1
+        },
+        "h6": {
+          "buys": 11,
+          "sells": 6,
+          "buyers": 11,
+          "sellers": 6
+        },
+        "h24": {
+          "buys": 43,
+          "sells": 38,
+          "buyers": 37,
+          "sellers": 31
+        }
+      },
+      "dex_id": "uniswap-v3-base"
+    },
+    {
+      "name": "MOLT / ETH 1%",
+      "address": "0xf78ebaf950d70c30c69100762f914298affd1936a85716f9147956eed11582b6",
+      "reserve_usd": 28290.6905,
+      "volume_h24": 263.3985173615,
+      "price_change": {
+        "m5": "0",
+        "m15": "0",
+        "m30": "0",
+        "h1": "0.89",
+        "h6": "-0.45",
+        "h24": "-0.96"
+      },
+      "transactions": {
+        "m5": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "m15": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        },
+        "m30": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        },
+        "h1": {
+          "buys": 2,
+          "sells": 0,
+          "buyers": 2,
+          "sellers": 0
+        },
+        "h6": {
+          "buys": 4,
+          "sells": 4,
+          "buyers": 4,
+          "sellers": 4
+        },
+        "h24": {
+          "buys": 10,
+          "sells": 25,
+          "buyers": 10,
+          "sellers": 22
+        }
+      },
+      "dex_id": "uniswap-v4-base"
+    },
+    {
+      "name": "MOLT / USDC 1.01%",
+      "address": "0x8105b099852d25f175e2ddd28686aa0aa35aa8500727bb21ae866534de87519f",
+      "reserve_usd": 40695.7859,
+      "volume_h24": 38.6090504993,
+      "price_change": {
+        "m5": "0",
+        "m15": "0",
+        "m30": "0",
+        "h1": "0",
+        "h6": "1.69",
+        "h24": "-2.33"
+      },
+      "transactions": {
+        "m5": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "m15": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        },
+        "m30": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        },
+        "h1": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        },
+        "h6": {
+          "buys": 2,
+          "sells": 4,
+          "buyers": 2,
+          "sellers": 3
+        },
+        "h24": {
+          "buys": 8,
+          "sells": 19,
+          "buyers": 8,
+          "sellers": 17
+        }
+      },
+      "dex_id": "uniswap-v4-base"
+    },
+    {
+      "name": "MOLT / USDC 1%",
+      "address": "0x852ae1da9ec34848c0b1531e0a6c4e0c141c30f5",
+      "reserve_usd": 2934.899,
+      "volume_h24": 346.6404716858,
+      "price_change": {
+        "m5": "0",
+        "m15": "0.32",
+        "m30": "2.496",
+        "h1": "0.84",
+        "h6": "1.94",
+        "h24": "-1.05"
+      },
+      "transactions": {
+        "m5": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "m15": {
+          "buys": 3,
+          "sells": 0,
+          "buyers": 3,
+          "sellers": 0
+        },
+        "m30": {
+          "buys": 3,
+          "sells": 1,
+          "buyers": 3,
+          "sellers": 1
+        },
+        "h1": {
+          "buys": 4,
+          "sells": 3,
+          "buyers": 4,
+          "sellers": 3
+        },
+        "h6": {
+          "buys": 6,
+          "sells": 16,
+          "buyers": 6,
+          "sellers": 14
+        },
+        "h24": {
+          "buys": 45,
+          "sells": 56,
+          "buyers": 37,
+          "sellers": 43
+        }
+      },
+      "dex_id": "uniswap-v3-base"
+    },
+    {
+      "name": "MOLT / ETH 7%",
+      "address": "0xa202a439ce61451114e87665917f9011c3c9f6b2a70272765e3b03ee7fac1c41",
+      "reserve_usd": 14620.9725,
+      "volume_h24": 0.506640177,
+      "price_change": {
+        "m5": "0",
+        "m15": "0",
+        "m30": "0",
+        "h1": "0",
+        "h6": "0",
+        "h24": "0"
+      },
+      "transactions": {
+        "m5": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "m15": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "m30": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "h6": {
+          "buys": 0,
+          "sells": 1,
+          "buyers": 0,
+          "sellers": 1
+        },
+        "h24": {
+          "buys": 0,
+          "sells": 1,
+          "buyers": 0,
+          "sellers": 1
+        }
+      },
+      "dex_id": "uniswap-v4-base"
+    },
+    {
+      "name": "Molten / MOLT",
+      "address": "0x513e828692e35337cfbc3b53fab876d4127e1889",
+      "reserve_usd": 7.2634,
+      "volume_h24": 0.4516423763,
+      "price_change": {
+        "m5": "0",
+        "m15": "0",
+        "m30": "0",
+        "h1": "0",
+        "h6": "0",
+        "h24": "-3.2"
+      },
+      "transactions": {
+        "m5": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        },
+        "m15": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        },
+        "m30": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        },
+        "h1": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        },
+        "h6": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        },
+        "h24": {
+          "buys": 2,
+          "sells": 0,
+          "buyers": 2,
+          "sellers": 0
+        }
+      },
+      "dex_id": "aerodrome-base"
+    },
+    {
+      "name": "GNGSTR / MOLT",
+      "address": "0x79d82b0218f48d748b64f4087bfec5979e5145b8",
+      "reserve_usd": 13.3243,
+      "volume_h24": 0.237638936,
+      "price_change": {
+        "m5": "0",
+        "m15": "0",
+        "m30": "0",
+        "h1": "0",
+        "h6": "0",
+        "h24": "-0.02"
+      },
+      "transactions": {
+        "m5": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "m15": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "m30": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "h6": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "h24": {
+          "buys": 1,
+          "sells": 0,
+          "buyers": 1,
+          "sellers": 0
+        }
+      },
+      "dex_id": "aerodrome-base"
+    },
+    {
+      "name": "MOLT / WETH 0.25%",
+      "address": "0x56acfbf8c22467f0fe27089fb755354488933b26",
+      "reserve_usd": 11.3054,
+      "volume_h24": 0.2035259075,
+      "price_change": {
+        "m5": "0",
+        "m15": "0",
+        "m30": "0",
+        "h1": "0",
+        "h6": "0",
+        "h24": "-0.32"
+      },
+      "transactions": {
+        "m5": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "m15": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "m30": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "h1": {
+          "buys": 0,
+          "sells": 0,
+          "buyers": 0,
+          "sellers": 0
+        },
+        "h6": {
+          "buys": 0,
+          "sells": 1,
+          "buyers": 0,
+          "sellers": 1
+        },
+        "h24": {
+          "buys": 1,
+          "sells": 4,
+          "buyers": 1,
+          "sellers": 3
+        }
+      },
+      "dex_id": "pancakeswap-v3-base"
+    }
+  ],
+  "data_limitations": [
+    "Holder counts, holder growth, active address history, and whale transfers require an indexed token holder/transfer API such as Basescan Pro, Dune, Goldsky, or a full archive/indexer. The public no-key endpoints used here did not expose reliable holder history.",
+    "Technical analysis is based on currently exposed DEX pair snapshots, not a full OHLCV candle history."
+  ]
+}
