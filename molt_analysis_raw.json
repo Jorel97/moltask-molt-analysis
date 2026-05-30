@@ -1,0 +1,2975 @@
+{
+  "checked_at": "2026-05-30T01:36:25Z",
+  "token": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+  "responses": {
+    "dexscreener": {
+      "status": 200,
+      "body": {
+        "schemaVersion": "1.0.0",
+        "pairs": [
+          {
+            "chainId": "base",
+            "dexId": "uniswap",
+            "url": "https://dexscreener.com/base/0x15f351bf1637b43d70631ba95fb9bbb1ff21761c29b034c1b380aecb922464dd",
+            "pairAddress": "0x15f351bf1637b43d70631ba95fb9bbb1ff21761c29b034c1b380aecb922464dd",
+            "labels": [
+              "v4"
+            ],
+            "baseToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "quoteToken": {
+              "address": "0x4200000000000000000000000000000000000006",
+              "name": "Wrapped Ether",
+              "symbol": "WETH"
+            },
+            "priceNative": "0.000000007228",
+            "priceUsd": "0.00001460",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h1": {
+                "buys": 9,
+                "sells": 9
+              },
+              "h6": {
+                "buys": 20,
+                "sells": 84
+              },
+              "h24": {
+                "buys": 36,
+                "sells": 239
+              }
+            },
+            "volume": {
+              "h24": 12115.63,
+              "h6": 2269.39,
+              "h1": 654.51,
+              "m5": 0
+            },
+            "priceChange": {
+              "h1": 1.21,
+              "h6": -0.63,
+              "h24": -0.87
+            },
+            "liquidity": {
+              "usd": 1400046.55,
+              "base": 25280250632,
+              "quote": 510.228
+            },
+            "fdv": 1460478,
+            "marketCap": 1460478,
+            "pairCreatedAt": 1769620867000,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/09d504dd6c2e0a087c678f04feb1dfa8e0c229237965cded3d3b15de924d3c54?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/4a6764c840da53192b7de37683a786e2f6d5bd3f60e4e69e5a24c6dc8f3f6bff?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xb695559b26bb2c9703ef1935c37aeae9526bab07?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://www.moltbook.com/",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://basescan.org/tx/0x592835d5d221911b2a79ad947df8b22723626e627cc9a27abc03edb1828ebd22",
+                  "label": "First claim from Moltbook"
+                },
+                {
+                  "url": "https://basescan.org/address/0xfc72b05ff4970b5744f29884f6d361be2ae0b9db",
+                  "label": "Moltbook wallet"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/MattPRD/status/2016560277333168540?",
+                  "type": "twitter"
+                }
+              ]
+            }
+          },
+          {
+            "chainId": "base",
+            "dexId": "uniswap",
+            "url": "https://dexscreener.com/base/0x8105b099852d25f175e2ddd28686aa0aa35aa8500727bb21ae866534de87519f",
+            "pairAddress": "0x8105b099852d25f175e2ddd28686aa0aa35aa8500727bb21ae866534de87519f",
+            "labels": [
+              "v4"
+            ],
+            "baseToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "quoteToken": {
+              "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+              "name": "USD Coin",
+              "symbol": "USDC"
+            },
+            "priceNative": "0.00001451",
+            "priceUsd": "0.00001451",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h1": {
+                "buys": 1,
+                "sells": 0
+              },
+              "h6": {
+                "buys": 2,
+                "sells": 4
+              },
+              "h24": {
+                "buys": 8,
+                "sells": 19
+              }
+            },
+            "volume": {
+              "h24": 38.6,
+              "h6": 7.36,
+              "h1": 1.39,
+              "m5": 0
+            },
+            "priceChange": {
+              "h1": 0.52,
+              "h6": -0.63,
+              "h24": -2.75
+            },
+            "liquidity": {
+              "usd": 35091.21,
+              "base": 255258997,
+              "quote": 31385
+            },
+            "fdv": 1451709,
+            "marketCap": 1451709,
+            "pairCreatedAt": 1769754573000,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/09d504dd6c2e0a087c678f04feb1dfa8e0c229237965cded3d3b15de924d3c54?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/4a6764c840da53192b7de37683a786e2f6d5bd3f60e4e69e5a24c6dc8f3f6bff?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xb695559b26bb2c9703ef1935c37aeae9526bab07?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://www.moltbook.com/",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://basescan.org/tx/0x592835d5d221911b2a79ad947df8b22723626e627cc9a27abc03edb1828ebd22",
+                  "label": "First claim from Moltbook"
+                },
+                {
+                  "url": "https://basescan.org/address/0xfc72b05ff4970b5744f29884f6d361be2ae0b9db",
+                  "label": "Moltbook wallet"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/MattPRD/status/2016560277333168540?",
+                  "type": "twitter"
+                }
+              ]
+            }
+          },
+          {
+            "chainId": "base",
+            "dexId": "uniswap",
+            "url": "https://dexscreener.com/base/0xf78ebaf950d70c30c69100762f914298affd1936a85716f9147956eed11582b6",
+            "pairAddress": "0xf78ebaf950d70c30c69100762f914298affd1936a85716f9147956eed11582b6",
+            "labels": [
+              "v4"
+            ],
+            "baseToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "quoteToken": {
+              "address": "0x0000000000000000000000000000000000000000",
+              "name": "Ether",
+              "symbol": "ETH"
+            },
+            "priceNative": "0.000000007251",
+            "priceUsd": "0.00001464",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h1": {
+                "buys": 2,
+                "sells": 0
+              },
+              "h6": {
+                "buys": 4,
+                "sells": 4
+              },
+              "h24": {
+                "buys": 10,
+                "sells": 25
+              }
+            },
+            "volume": {
+              "h24": 263.81,
+              "h6": 54.89,
+              "h1": 15.19,
+              "m5": 0
+            },
+            "priceChange": {
+              "h1": 1.32,
+              "h6": 0.26,
+              "h24": -0.67
+            },
+            "liquidity": {
+              "usd": 20423.54,
+              "base": 105668002,
+              "quote": 9.3487
+            },
+            "fdv": 1464203,
+            "marketCap": 1464203,
+            "pairCreatedAt": 1769797485000,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/09d504dd6c2e0a087c678f04feb1dfa8e0c229237965cded3d3b15de924d3c54?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/4a6764c840da53192b7de37683a786e2f6d5bd3f60e4e69e5a24c6dc8f3f6bff?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xb695559b26bb2c9703ef1935c37aeae9526bab07?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://www.moltbook.com/",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://basescan.org/tx/0x592835d5d221911b2a79ad947df8b22723626e627cc9a27abc03edb1828ebd22",
+                  "label": "First claim from Moltbook"
+                },
+                {
+                  "url": "https://basescan.org/address/0xfc72b05ff4970b5744f29884f6d361be2ae0b9db",
+                  "label": "Moltbook wallet"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/MattPRD/status/2016560277333168540?",
+                  "type": "twitter"
+                }
+              ]
+            }
+          },
+          {
+            "chainId": "base",
+            "dexId": "uniswap",
+            "url": "https://dexscreener.com/base/0xa202a439ce61451114e87665917f9011c3c9f6b2a70272765e3b03ee7fac1c41",
+            "pairAddress": "0xa202a439ce61451114e87665917f9011c3c9f6b2a70272765e3b03ee7fac1c41",
+            "labels": [
+              "v4"
+            ],
+            "baseToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "quoteToken": {
+              "address": "0x0000000000000000000000000000000000000000",
+              "name": "Ether",
+              "symbol": "ETH"
+            },
+            "priceNative": "0.000000007629",
+            "priceUsd": "0.00001535",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h1": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h6": {
+                "buys": 0,
+                "sells": 1
+              },
+              "h24": {
+                "buys": 0,
+                "sells": 1
+              }
+            },
+            "volume": {
+              "h24": 0.5,
+              "h6": 0.5,
+              "h1": 0,
+              "m5": 0
+            },
+            "priceChange": {},
+            "liquidity": {
+              "usd": 13707.6,
+              "base": 144595455,
+              "quote": 5.7078
+            },
+            "fdv": 1535524,
+            "marketCap": 1535524,
+            "pairCreatedAt": 1769656719000,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/09d504dd6c2e0a087c678f04feb1dfa8e0c229237965cded3d3b15de924d3c54?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/4a6764c840da53192b7de37683a786e2f6d5bd3f60e4e69e5a24c6dc8f3f6bff?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xb695559b26bb2c9703ef1935c37aeae9526bab07?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://www.moltbook.com/",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://basescan.org/tx/0x592835d5d221911b2a79ad947df8b22723626e627cc9a27abc03edb1828ebd22",
+                  "label": "First claim from Moltbook"
+                },
+                {
+                  "url": "https://basescan.org/address/0xfc72b05ff4970b5744f29884f6d361be2ae0b9db",
+                  "label": "Moltbook wallet"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/MattPRD/status/2016560277333168540?",
+                  "type": "twitter"
+                }
+              ]
+            }
+          },
+          {
+            "chainId": "base",
+            "dexId": "aerodrome",
+            "url": "https://dexscreener.com/base/0x85fb468a5e65a537c5ac767776599708a3d41046",
+            "pairAddress": "0x85Fb468A5E65a537C5Ac767776599708a3D41046",
+            "baseToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "quoteToken": {
+              "address": "0x4200000000000000000000000000000000000006",
+              "name": "Wrapped Ether",
+              "symbol": "WETH"
+            },
+            "priceNative": "0.000000007293",
+            "priceUsd": "0.00001473",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 2
+              },
+              "h1": {
+                "buys": 1,
+                "sells": 13
+              },
+              "h6": {
+                "buys": 18,
+                "sells": 28
+              },
+              "h24": {
+                "buys": 186,
+                "sells": 242
+              }
+            },
+            "volume": {
+              "h24": 9952.13,
+              "h6": 1534.68,
+              "h1": 156.44,
+              "m5": 1.99
+            },
+            "priceChange": {
+              "h1": 1.18,
+              "h6": 1.34,
+              "h24": 0.09
+            },
+            "liquidity": {
+              "usd": 5538.9,
+              "base": 301081152,
+              "quote": 0.5453
+            },
+            "fdv": 1473652,
+            "marketCap": 1473652,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/09d504dd6c2e0a087c678f04feb1dfa8e0c229237965cded3d3b15de924d3c54?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/4a6764c840da53192b7de37683a786e2f6d5bd3f60e4e69e5a24c6dc8f3f6bff?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xb695559b26bb2c9703ef1935c37aeae9526bab07?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://www.moltbook.com/",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://basescan.org/tx/0x592835d5d221911b2a79ad947df8b22723626e627cc9a27abc03edb1828ebd22",
+                  "label": "First claim from Moltbook"
+                },
+                {
+                  "url": "https://basescan.org/address/0xfc72b05ff4970b5744f29884f6d361be2ae0b9db",
+                  "label": "Moltbook wallet"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/MattPRD/status/2016560277333168540?",
+                  "type": "twitter"
+                }
+              ]
+            }
+          },
+          {
+            "chainId": "base",
+            "dexId": "uniswap",
+            "url": "https://dexscreener.com/base/0x6f3a1b2054d091b5c14ea8c720142c9ebc4387c1",
+            "pairAddress": "0x6F3a1B2054d091b5C14EA8c720142c9EBC4387C1",
+            "labels": [
+              "v3"
+            ],
+            "baseToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "quoteToken": {
+              "address": "0x4200000000000000000000000000000000000006",
+              "name": "Wrapped Ether",
+              "symbol": "WETH"
+            },
+            "priceNative": "0.000000007244",
+            "priceUsd": "0.00001462",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h1": {
+                "buys": 3,
+                "sells": 1
+              },
+              "h6": {
+                "buys": 11,
+                "sells": 6
+              },
+              "h24": {
+                "buys": 43,
+                "sells": 38
+              }
+            },
+            "volume": {
+              "h24": 2514.05,
+              "h6": 656.38,
+              "h1": 173.33,
+              "m5": 0
+            },
+            "priceChange": {
+              "h1": 1.13,
+              "h6": -0.16,
+              "h24": -1.08
+            },
+            "liquidity": {
+              "usd": 9347.58,
+              "base": 399382786,
+              "quote": 1.7363
+            },
+            "fdv": 1462666,
+            "marketCap": 1462666,
+            "pairCreatedAt": 1769634731000,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/09d504dd6c2e0a087c678f04feb1dfa8e0c229237965cded3d3b15de924d3c54?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/4a6764c840da53192b7de37683a786e2f6d5bd3f60e4e69e5a24c6dc8f3f6bff?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xb695559b26bb2c9703ef1935c37aeae9526bab07?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://www.moltbook.com/",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://basescan.org/tx/0x592835d5d221911b2a79ad947df8b22723626e627cc9a27abc03edb1828ebd22",
+                  "label": "First claim from Moltbook"
+                },
+                {
+                  "url": "https://basescan.org/address/0xfc72b05ff4970b5744f29884f6d361be2ae0b9db",
+                  "label": "Moltbook wallet"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/MattPRD/status/2016560277333168540?",
+                  "type": "twitter"
+                }
+              ]
+            }
+          },
+          {
+            "chainId": "base",
+            "dexId": "uniswap",
+            "url": "https://dexscreener.com/base/0x852ae1da9ec34848c0b1531e0a6c4e0c141c30f5",
+            "pairAddress": "0x852aE1DA9ec34848C0b1531e0a6C4E0c141c30f5",
+            "labels": [
+              "v3"
+            ],
+            "baseToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "quoteToken": {
+              "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+              "name": "USD Coin",
+              "symbol": "USDC"
+            },
+            "priceNative": "0.00001455",
+            "priceUsd": "0.00001455",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h1": {
+                "buys": 4,
+                "sells": 3
+              },
+              "h6": {
+                "buys": 6,
+                "sells": 16
+              },
+              "h24": {
+                "buys": 45,
+                "sells": 56
+              }
+            },
+            "volume": {
+              "h24": 346.98,
+              "h6": 67.03,
+              "h1": 15.4,
+              "m5": 0
+            },
+            "priceChange": {
+              "h1": 0.93,
+              "h6": -0.12,
+              "h24": -1.04
+            },
+            "liquidity": {
+              "usd": 2917.28,
+              "base": 134163862,
+              "quote": 964.7796
+            },
+            "fdv": 1455311,
+            "marketCap": 1455311,
+            "pairCreatedAt": 1769743593000,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/09d504dd6c2e0a087c678f04feb1dfa8e0c229237965cded3d3b15de924d3c54?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/4a6764c840da53192b7de37683a786e2f6d5bd3f60e4e69e5a24c6dc8f3f6bff?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xb695559b26bb2c9703ef1935c37aeae9526bab07?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://www.moltbook.com/",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://basescan.org/tx/0x592835d5d221911b2a79ad947df8b22723626e627cc9a27abc03edb1828ebd22",
+                  "label": "First claim from Moltbook"
+                },
+                {
+                  "url": "https://basescan.org/address/0xfc72b05ff4970b5744f29884f6d361be2ae0b9db",
+                  "label": "Moltbook wallet"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/MattPRD/status/2016560277333168540?",
+                  "type": "twitter"
+                }
+              ]
+            }
+          },
+          {
+            "chainId": "base",
+            "dexId": "pancakeswap",
+            "url": "https://dexscreener.com/base/0x56acfbf8c22467f0fe27089fb755354488933b26",
+            "pairAddress": "0x56acfbF8c22467F0FE27089fB755354488933b26",
+            "baseToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "quoteToken": {
+              "address": "0x4200000000000000000000000000000000000006",
+              "name": "Wrapped Ether",
+              "symbol": "WETH"
+            },
+            "priceNative": "0.000000007184",
+            "priceUsd": "0.00001447",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h1": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h6": {
+                "buys": 0,
+                "sells": 1
+              },
+              "h24": {
+                "buys": 1,
+                "sells": 4
+              }
+            },
+            "volume": {
+              "h24": 0.2,
+              "h6": 0.04,
+              "h1": 0,
+              "m5": 0
+            },
+            "priceChange": {
+              "h6": -1.67,
+              "h24": -1.01
+            },
+            "liquidity": {
+              "usd": 11.38,
+              "base": 383015,
+              "quote": 0.002898
+            },
+            "fdv": 1447298,
+            "marketCap": 1447298,
+            "pairCreatedAt": 1769797015000,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/09d504dd6c2e0a087c678f04feb1dfa8e0c229237965cded3d3b15de924d3c54?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/4a6764c840da53192b7de37683a786e2f6d5bd3f60e4e69e5a24c6dc8f3f6bff?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xb695559b26bb2c9703ef1935c37aeae9526bab07?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://www.moltbook.com/",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://basescan.org/tx/0x592835d5d221911b2a79ad947df8b22723626e627cc9a27abc03edb1828ebd22",
+                  "label": "First claim from Moltbook"
+                },
+                {
+                  "url": "https://basescan.org/address/0xfc72b05ff4970b5744f29884f6d361be2ae0b9db",
+                  "label": "Moltbook wallet"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/MattPRD/status/2016560277333168540?",
+                  "type": "twitter"
+                }
+              ]
+            }
+          },
+          {
+            "chainId": "base",
+            "dexId": "uniswap",
+            "url": "https://dexscreener.com/base/0xb63c0a0d2223b21b7c68d4d11cfdfae3588fd46f",
+            "pairAddress": "0xB63C0A0d2223b21b7c68D4d11cFdfAE3588fD46F",
+            "labels": [
+              "v3"
+            ],
+            "baseToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "quoteToken": {
+              "address": "0x48B3E8510d6C43B109960Cc56d2c27A72e19FDB4",
+              "name": "Uranus Moon 8",
+              "symbol": "🌙8"
+            },
+            "priceNative": "0.0004554",
+            "priceUsd": "0.00001512",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h1": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h6": {
+                "buys": 2,
+                "sells": 0
+              },
+              "h24": {
+                "buys": 5,
+                "sells": 6
+              }
+            },
+            "volume": {
+              "h24": 14.35,
+              "h6": 2.14,
+              "h1": 0,
+              "m5": 0
+            },
+            "priceChange": {
+              "h6": 2.47,
+              "h24": -2.31
+            },
+            "liquidity": {
+              "usd": 351.32,
+              "base": 11614690,
+              "quote": 5287.8396
+            },
+            "fdv": 1512655,
+            "marketCap": 1512655,
+            "pairCreatedAt": 1776972433000,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/09d504dd6c2e0a087c678f04feb1dfa8e0c229237965cded3d3b15de924d3c54?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/4a6764c840da53192b7de37683a786e2f6d5bd3f60e4e69e5a24c6dc8f3f6bff?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xb695559b26bb2c9703ef1935c37aeae9526bab07?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://www.moltbook.com/",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://basescan.org/tx/0x592835d5d221911b2a79ad947df8b22723626e627cc9a27abc03edb1828ebd22",
+                  "label": "First claim from Moltbook"
+                },
+                {
+                  "url": "https://basescan.org/address/0xfc72b05ff4970b5744f29884f6d361be2ae0b9db",
+                  "label": "Moltbook wallet"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/MattPRD/status/2016560277333168540?",
+                  "type": "twitter"
+                }
+              ]
+            }
+          },
+          {
+            "chainId": "base",
+            "dexId": "pancakeswap",
+            "url": "https://dexscreener.com/base/0xfb00ad2c531d32d1914d9fadffc9bb7ec2719b19",
+            "pairAddress": "0xFB00AD2c531D32d1914D9faDFfC9bb7EC2719B19",
+            "baseToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "quoteToken": {
+              "address": "0x4200000000000000000000000000000000000006",
+              "name": "Wrapped Ether",
+              "symbol": "WETH"
+            },
+            "priceNative": "0.000000007131",
+            "priceUsd": "0.00001439",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h1": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h6": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h24": {
+                "buys": 1,
+                "sells": 0
+              }
+            },
+            "volume": {
+              "h24": 0,
+              "h6": 0,
+              "h1": 0,
+              "m5": 0
+            },
+            "priceChange": {},
+            "liquidity": {
+              "usd": 0.22,
+              "base": 7804.06505,
+              "quote": 5.565e-05
+            },
+            "fdv": 1439130,
+            "marketCap": 1439130,
+            "pairCreatedAt": 1770390651000,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/09d504dd6c2e0a087c678f04feb1dfa8e0c229237965cded3d3b15de924d3c54?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/4a6764c840da53192b7de37683a786e2f6d5bd3f60e4e69e5a24c6dc8f3f6bff?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xb695559b26bb2c9703ef1935c37aeae9526bab07?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://www.moltbook.com/",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://basescan.org/tx/0x592835d5d221911b2a79ad947df8b22723626e627cc9a27abc03edb1828ebd22",
+                  "label": "First claim from Moltbook"
+                },
+                {
+                  "url": "https://basescan.org/address/0xfc72b05ff4970b5744f29884f6d361be2ae0b9db",
+                  "label": "Moltbook wallet"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/MattPRD/status/2016560277333168540?",
+                  "type": "twitter"
+                }
+              ]
+            }
+          },
+          {
+            "chainId": "base",
+            "dexId": "aerodrome",
+            "url": "https://dexscreener.com/base/0x79d82b0218f48d748b64f4087bfec5979e5145b8",
+            "pairAddress": "0x79D82b0218F48D748B64f4087BfEC5979E5145b8",
+            "baseToken": {
+              "address": "0x082C54F57E71bd810f8DB572c6740C480366a7B3",
+              "name": "Gangstr",
+              "symbol": "GNGSTR"
+            },
+            "quoteToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "priceNative": "13.3452",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h1": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h6": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h24": {
+                "buys": 0,
+                "sells": 2
+              }
+            },
+            "volume": {
+              "h24": 0,
+              "h6": 0,
+              "h1": 0,
+              "m5": 0
+            },
+            "priceChange": {
+              "h24": -9.36
+            },
+            "pairCreatedAt": 1775979977000,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/Pii2YqwGN2ED1jhW?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/VDMV1McxhTfieJKg?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x082c54f57e71bd810f8db572c6740c480366a7b3?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://gangstr.basedapes.wtf/swap",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://gangstr.basedapes.wtf/",
+                  "label": "Docs"
+                },
+                {
+                  "url": "https://opensea.io/collection/basedapesgang",
+                  "label": "Based Ape Gang"
+                },
+                {
+                  "url": "https://opensea.io/collection/apegang-ape",
+                  "label": "Ape Gang"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/BasedApeGang",
+                  "type": "twitter"
+                },
+                {
+                  "url": "https://discord.gg/rw9yug2b7x",
+                  "type": "discord"
+                }
+              ]
+            }
+          },
+          {
+            "chainId": "base",
+            "dexId": "aerodrome",
+            "url": "https://dexscreener.com/base/0x513e828692e35337cfbc3b53fab876d4127e1889",
+            "pairAddress": "0x513e828692e35337cFBc3B53Fab876d4127e1889",
+            "baseToken": {
+              "address": "0x59c0d5c34C301aC0600147924D6C9be22a2F0B07",
+              "name": "Molten",
+              "symbol": "Molten"
+            },
+            "quoteToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "priceNative": "0.6439",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 0
+              },
+              "h1": {
+                "buys": 0,
+                "sells": 1
+              },
+              "h6": {
+                "buys": 0,
+                "sells": 1
+              },
+              "h24": {
+                "buys": 0,
+                "sells": 2
+              }
+            },
+            "volume": {
+              "h24": 0,
+              "h6": 0,
+              "h1": 0,
+              "m5": 0
+            },
+            "priceChange": {
+              "h1": -14.68,
+              "h6": -14.68,
+              "h24": -14.68
+            },
+            "pairCreatedAt": 1773388497000,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/dqRvmjzzHL5a7iZg?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/0fOlXoQ4xlyzNzLs?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x59c0d5c34c301ac0600147924d6c9be22a2f0b07?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://molten.gg",
+                  "label": "Website"
+                },
+                {
+                  "url": "https://ping.molten.gg",
+                  "label": "Ping (agent search)"
+                },
+                {
+                  "url": "https://cast.molten.gg",
+                  "label": "Cast (agent comms)"
+                },
+                {
+                  "url": "https://core.molten.gg",
+                  "label": "Core (onchain layer)"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/moltenagentic",
+                  "type": "twitter"
+                }
+              ]
+            }
+          },
+          {
+            "chainId": "base",
+            "dexId": "uniswap",
+            "url": "https://dexscreener.com/base/0x48f7b84cdd96e830d67d1c703120b12b41408c4bb1b2803b49a238e22603267e",
+            "pairAddress": "0x48f7b84cdd96e830d67d1c703120b12b41408c4bb1b2803b49a238e22603267e",
+            "labels": [
+              "v4"
+            ],
+            "baseToken": {
+              "address": "0x2d4bCC58fd1B101ae71c4B15C02178e1fBe777dF",
+              "name": "MILF",
+              "symbol": "MILF"
+            },
+            "quoteToken": {
+              "address": "0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+              "name": "Moltbook",
+              "symbol": "MOLT"
+            },
+            "priceNative": "0.02960",
+            "priceUsd": "0.0000004324",
+            "txns": {
+              "m5": {
+                "buys": 0,
+                "sells": 2
+              },
+              "h1": {
+                "buys": 0,
+                "sells": 3
+              },
+              "h6": {
+                "buys": 1,
+                "sells": 4
+              },
+              "h24": {
+                "buys": 10,
+                "sells": 11
+              }
+            },
+            "volume": {
+              "h24": 33.91,
+              "h6": 7.41,
+              "h1": 3.18,
+              "m5": 1.98
+            },
+            "priceChange": {
+              "m5": -0.06,
+              "h1": -0.88,
+              "h6": -1.33,
+              "h24": 1.85
+            },
+            "liquidity": {
+              "usd": 668.85,
+              "base": 779184080,
+              "quote": 22728086
+            },
+            "fdv": 43116,
+            "marketCap": 13577,
+            "pairCreatedAt": 1773240291000,
+            "info": {
+              "imageUrl": "https://cdn.dexscreener.com/cms/images/d1a0104c7c581fed72078d9daa44f828d79e31361906342b93890e7fc6ce734e?width=800&height=800&quality=95&format=auto",
+              "header": "https://cdn.dexscreener.com/cms/images/5e5c8f4e1b9d2101b620d44188661e8585e67d32f26315cd651d871a348a427a?width=1500&height=500&quality=95&format=auto",
+              "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x2d4bcc58fd1b101ae71c4b15c02178e1fbe777df?timestamp=1780104900000",
+              "websites": [
+                {
+                  "url": "https://basedmilfs.io/",
+                  "label": "Website"
+                }
+              ],
+              "socials": [
+                {
+                  "url": "https://x.com/basedmilfs?s=21&t=ZY-h9KDqyk32EJO32fn4xw",
+                  "type": "twitter"
+                },
+                {
+                  "url": "https://t.me/milfonbase",
+                  "type": "telegram"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "geckoterminal": {
+      "status": 200,
+      "body": {
+        "data": {
+          "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+          "type": "token",
+          "attributes": {
+            "address": "0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+            "name": "Moltbook",
+            "symbol": "MOLT",
+            "decimals": 18,
+            "image_url": "https://coin-images.coingecko.com/coins/images/102171807/large/molt.jpg?1769834547",
+            "coingecko_coin_id": "moltbook",
+            "total_supply": "100000000000000000000000000000.0",
+            "normalized_total_supply": "100000000000.0",
+            "price_usd": "0.00001473269365",
+            "fdv_usd": "1473269.33314016",
+            "total_reserve_in_usd": "498067.22291131146958273347894436045215",
+            "volume_usd": {
+              "h24": "25224.4579251557"
+            },
+            "market_cap_usd": "1473269.365"
+          },
+          "relationships": {
+            "top_pools": {
+              "data": [
+                {
+                  "id": "base_0x15f351bf1637b43d70631ba95fb9bbb1ff21761c29b034c1b380aecb922464dd",
+                  "type": "pool"
+                },
+                {
+                  "id": "base_0x85fb468a5e65a537c5ac767776599708a3d41046",
+                  "type": "pool"
+                },
+                {
+                  "id": "base_0x6f3a1b2054d091b5c14ea8c720142c9ebc4387c1",
+                  "type": "pool"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "geckoterminal_pools": {
+      "status": 200,
+      "body": {
+        "data": [
+          {
+            "id": "base_0x15f351bf1637b43d70631ba95fb9bbb1ff21761c29b034c1b380aecb922464dd",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.00001473269365",
+              "base_token_price_native_currency": "0.00000000727455604529883",
+              "quote_token_price_usd": "2017.66",
+              "quote_token_price_native_currency": "1.0",
+              "base_token_price_quote_token": "0.000000007274556045",
+              "quote_token_price_base_token": "137465433.460541",
+              "address": "0x15f351bf1637b43d70631ba95fb9bbb1ff21761c29b034c1b380aecb922464dd",
+              "name": "MOLT / WETH",
+              "pool_created_at": "2026-01-28T17:21:07Z",
+              "token_price_usd": "0.00001473269365",
+              "fdv_usd": "1473269.33288392",
+              "market_cap_usd": "1473269.365",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0.473",
+                "m30": "0.98",
+                "h1": "1.35",
+                "h6": "2.03",
+                "h24": "-1.12"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 2,
+                  "sells": 0,
+                  "buyers": 2,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 4,
+                  "sells": 0,
+                  "buyers": 4,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 11,
+                  "sells": 0,
+                  "buyers": 10,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 19,
+                  "sells": 57,
+                  "buyers": 17,
+                  "sellers": 21
+                },
+                "h24": {
+                  "buys": 34,
+                  "sells": 197,
+                  "buyers": 31,
+                  "sellers": 64
+                }
+              },
+              "volume_usd": {
+                "m5": "0.4682509288",
+                "m15": "647.1194573914",
+                "m30": "648.0281297674",
+                "h1": "880.0343317844",
+                "h6": "2260.841660543",
+                "h24": "12091.8555215121"
+              },
+              "reserve_in_usd": "1503156.4982"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x4200000000000000000000000000000000000006",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v4-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0x85fb468a5e65a537c5ac767776599708a3d41046",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.00001467202714",
+              "base_token_price_native_currency": "0.00000000730187130267856",
+              "quote_token_price_usd": "2017.61",
+              "quote_token_price_native_currency": "1.0",
+              "base_token_price_quote_token": "0.000000007301871303",
+              "quote_token_price_base_token": "136951194.91262",
+              "address": "0x85fb468a5e65a537c5ac767776599708a3d41046",
+              "name": "MOLT / WETH 0.3%",
+              "pool_created_at": "2026-01-30T07:29:40Z",
+              "token_price_usd": "0.00001467202714",
+              "fdv_usd": "1467202.68201617",
+              "market_cap_usd": "1467202.714",
+              "price_change_percentage": {
+                "m5": "-0.01",
+                "m15": "0.044",
+                "m30": "1.024",
+                "h1": "1.07",
+                "h6": "1.17",
+                "h24": "-0.41"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 4,
+                  "buyers": 0,
+                  "sellers": 4
+                },
+                "m15": {
+                  "buys": 1,
+                  "sells": 7,
+                  "buyers": 1,
+                  "sellers": 7
+                },
+                "m30": {
+                  "buys": 1,
+                  "sells": 8,
+                  "buyers": 1,
+                  "sellers": 8
+                },
+                "h1": {
+                  "buys": 1,
+                  "sells": 13,
+                  "buyers": 1,
+                  "sellers": 13
+                },
+                "h6": {
+                  "buys": 18,
+                  "sells": 28,
+                  "buyers": 12,
+                  "sellers": 25
+                },
+                "h24": {
+                  "buys": 186,
+                  "sells": 242,
+                  "buyers": 101,
+                  "sellers": 122
+                }
+              },
+              "volume_usd": {
+                "m5": "4.2940334502",
+                "m15": "143.9041467951",
+                "m30": "144.053162214",
+                "h1": "156.185513288",
+                "h6": "1532.6926124071",
+                "h24": "9938.9153268857"
+              },
+              "reserve_in_usd": "5535.8634"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x4200000000000000000000000000000000000006",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "aerodrome-slipstream-2",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0x6f3a1b2054d091b5c14ea8c720142c9ebc4387c1",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.00001468639311",
+              "base_token_price_native_currency": "0.00000000724753091690828",
+              "quote_token_price_usd": "2015.71",
+              "quote_token_price_native_currency": "1.0",
+              "base_token_price_quote_token": "0.000000007247530917",
+              "quote_token_price_base_token": "137978024.718326",
+              "address": "0x6f3a1b2054d091b5c14ea8c720142c9ebc4387c1",
+              "name": "MOLT / WETH 1%",
+              "pool_created_at": "2026-01-28T21:13:00Z",
+              "token_price_usd": "0.00001468639311",
+              "fdv_usd": "1468639.27898485",
+              "market_cap_usd": "1468639.311",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0.614",
+                "h1": "2.91",
+                "h6": "-0.46",
+                "h24": "0.45"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 2,
+                  "sells": 0,
+                  "buyers": 2,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 3,
+                  "sells": 1,
+                  "buyers": 3,
+                  "sellers": 1
+                },
+                "h6": {
+                  "buys": 11,
+                  "sells": 6,
+                  "buyers": 11,
+                  "sellers": 6
+                },
+                "h24": {
+                  "buys": 43,
+                  "sells": 38,
+                  "buyers": 37,
+                  "sellers": 31
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "121.0165184065",
+                "m30": "132.0315116815",
+                "h1": "173.0842515981",
+                "h6": "655.5772024285",
+                "h24": "2510.8281388533"
+              },
+              "reserve_in_usd": "9347.4717"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x4200000000000000000000000000000000000006",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v3-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0xf78ebaf950d70c30c69100762f914298affd1936a85716f9147956eed11582b6",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.00001470725526",
+              "base_token_price_native_currency": "0.00000000724753091690828",
+              "quote_token_price_usd": "2015.71",
+              "quote_token_price_native_currency": "1.0",
+              "base_token_price_quote_token": "0.000000007247530917",
+              "quote_token_price_base_token": "137978024.718326",
+              "address": "0xf78ebaf950d70c30c69100762f914298affd1936a85716f9147956eed11582b6",
+              "name": "MOLT / ETH 1%",
+              "pool_created_at": "2026-01-30T18:24:45Z",
+              "token_price_usd": "0.00001470725526",
+              "fdv_usd": "1470725.49393937",
+              "market_cap_usd": "1470725.526",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0.89",
+                "h6": "-0.45",
+                "h24": "-0.96"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 2,
+                  "sells": 0,
+                  "buyers": 2,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 4,
+                  "sells": 4,
+                  "buyers": 4,
+                  "sellers": 4
+                },
+                "h24": {
+                  "buys": 10,
+                  "sells": 25,
+                  "buyers": 10,
+                  "sellers": 22
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "10.5786858592",
+                "m30": "10.5786858592",
+                "h1": "15.1752467684",
+                "h6": "54.8252650639",
+                "h24": "263.3985173615"
+              },
+              "reserve_in_usd": "28290.6905"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x0000000000000000000000000000000000000000",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v4-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0x8105b099852d25f175e2ddd28686aa0aa35aa8500727bb21ae866534de87519f",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.00001461524728",
+              "base_token_price_native_currency": "0.00000000727455604529883",
+              "quote_token_price_usd": "0.999166712248431",
+              "quote_token_price_native_currency": "0.00049568971342526",
+              "base_token_price_quote_token": "0.00001467562438",
+              "quote_token_price_base_token": "68140.2013179345",
+              "address": "0x8105b099852d25f175e2ddd28686aa0aa35aa8500727bb21ae866534de87519f",
+              "name": "MOLT / USDC 1.01%",
+              "pool_created_at": "2026-01-30T06:29:33Z",
+              "token_price_usd": "0.00001461524728",
+              "fdv_usd": "1461524.69613994",
+              "market_cap_usd": "1461524.728",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "1.69",
+                "h24": "-2.33"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 2,
+                  "sells": 4,
+                  "buyers": 2,
+                  "sellers": 3
+                },
+                "h24": {
+                  "buys": 8,
+                  "sells": 19,
+                  "buyers": 8,
+                  "sellers": 17
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "1.3981359788",
+                "m30": "1.3981359788",
+                "h1": "1.3981359788",
+                "h6": "7.3652883885",
+                "h24": "38.6090504993"
+              },
+              "reserve_in_usd": "40695.7859"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v4-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0x852ae1da9ec34848c0b1531e0a6c4e0c141c30f5",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.00001468208695",
+              "base_token_price_native_currency": "0.00000000727455604529883",
+              "quote_token_price_usd": "0.999391860457895",
+              "quote_token_price_native_currency": "0.000495417995834913",
+              "base_token_price_quote_token": "0.0000146836734",
+              "quote_token_price_base_token": "68102.8495415986",
+              "address": "0x852ae1da9ec34848c0b1531e0a6c4e0c141c30f5",
+              "name": "MOLT / USDC 1%",
+              "pool_created_at": "2026-01-30T03:26:33Z",
+              "token_price_usd": "0.00001468208695",
+              "fdv_usd": "1468208.66299424",
+              "market_cap_usd": "1468208.695",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0.32",
+                "m30": "2.496",
+                "h1": "0.84",
+                "h6": "1.94",
+                "h24": "-1.05"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 3,
+                  "sells": 0,
+                  "buyers": 3,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 3,
+                  "sells": 1,
+                  "buyers": 3,
+                  "sellers": 1
+                },
+                "h1": {
+                  "buys": 4,
+                  "sells": 3,
+                  "buyers": 4,
+                  "sellers": 3
+                },
+                "h6": {
+                  "buys": 6,
+                  "sells": 16,
+                  "buyers": 6,
+                  "sellers": 14
+                },
+                "h24": {
+                  "buys": 45,
+                  "sells": 56,
+                  "buyers": 37,
+                  "sellers": 43
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "7.8831662634",
+                "m30": "7.9938481421",
+                "h1": "15.3803632613",
+                "h6": "66.9421016887",
+                "h24": "346.6404716858"
+              },
+              "reserve_in_usd": "2934.899"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v3-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0xa202a439ce61451114e87665917f9011c3c9f6b2a70272765e3b03ee7fac1c41",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.00001533563046",
+              "base_token_price_native_currency": "0.00000000716376568400607",
+              "quote_token_price_usd": "2009.99",
+              "quote_token_price_native_currency": "1.0",
+              "base_token_price_quote_token": "0.000000007163765684",
+              "quote_token_price_base_token": "139591388.678808",
+              "address": "0xa202a439ce61451114e87665917f9011c3c9f6b2a70272765e3b03ee7fac1c41",
+              "name": "MOLT / ETH 7%",
+              "pool_created_at": "2026-01-29T03:18:39Z",
+              "token_price_usd": "0.00001533563046",
+              "fdv_usd": "1533563.01256956",
+              "market_cap_usd": "1533563.046",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "0"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 0,
+                  "sells": 1,
+                  "buyers": 0,
+                  "sellers": 1
+                },
+                "h24": {
+                  "buys": 0,
+                  "sells": 1,
+                  "buyers": 0,
+                  "sellers": 1
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.506640177",
+                "h24": "0.506640177"
+              },
+              "reserve_in_usd": "14620.9725"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x0000000000000000000000000000000000000000",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v4-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0x513e828692e35337cfbc3b53fab876d4127e1889",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.000009128929242",
+              "base_token_price_native_currency": "0.00000000452451316969721",
+              "quote_token_price_usd": "0.0000147326936525624",
+              "quote_token_price_native_currency": "0.00000000730187130267856",
+              "base_token_price_quote_token": "0.619637485",
+              "quote_token_price_base_token": "1.6138468447",
+              "address": "0x513e828692e35337cfbc3b53fab876d4127e1889",
+              "name": "Molten / MOLT",
+              "pool_created_at": "2026-03-13T07:55:11Z",
+              "token_price_usd": "0.0000147326936525624",
+              "fdv_usd": "1473269.33314016",
+              "market_cap_usd": "1473269.36525624",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "-3.2"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "h24": {
+                  "buys": 2,
+                  "sells": 0,
+                  "buyers": 2,
+                  "sellers": 0
+                }
+              },
+              "volume_usd": {
+                "m5": "0.3086748893",
+                "m15": "0.3086748893",
+                "m30": "0.3086748893",
+                "h1": "0.3086748893",
+                "h6": "0.3086748893",
+                "h24": "0.4516423763"
+              },
+              "reserve_in_usd": "7.2634"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0x59c0d5c34c301ac0600147924d6c9be22a2f0b07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "aerodrome-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0x79d82b0218f48d748b64f4087bfec5979e5145b8",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.0002140568814",
+              "base_token_price_native_currency": "0.0000000968120950232947",
+              "quote_token_price_usd": "0.0000145854747780624",
+              "quote_token_price_native_currency": "0.00000000729091466036609",
+              "base_token_price_quote_token": "13.2784567552",
+              "quote_token_price_base_token": "0.07530995645",
+              "address": "0x79d82b0218f48d748b64f4087bfec5979e5145b8",
+              "name": "GNGSTR / MOLT",
+              "pool_created_at": "2026-04-12T07:46:31Z",
+              "token_price_usd": "0.0000145854747780624",
+              "fdv_usd": "1458547.44601108",
+              "market_cap_usd": "1458547.47780624",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "-0.02"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h24": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.0",
+                "h24": "0.237638936"
+              },
+              "reserve_in_usd": "13.3243"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0x082c54f57e71bd810f8db572c6740c480366a7b3",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "aerodrome-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0x56acfbf8c22467f0fe27089fb755354488933b26",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.00001454361486",
+              "base_token_price_native_currency": "0.00000000716376568400607",
+              "quote_token_price_usd": "2011.42",
+              "quote_token_price_native_currency": "1.0",
+              "base_token_price_quote_token": "0.000000007163765684",
+              "quote_token_price_base_token": "139591388.678808",
+              "address": "0x56acfbf8c22467f0fe27089fb755354488933b26",
+              "name": "MOLT / WETH 0.25%",
+              "pool_created_at": "2026-01-30T18:16:55Z",
+              "token_price_usd": "0.00001454361486",
+              "fdv_usd": "1454361.45429609",
+              "market_cap_usd": "1454361.486",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "-0.32"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 0,
+                  "sells": 1,
+                  "buyers": 0,
+                  "sellers": 1
+                },
+                "h24": {
+                  "buys": 1,
+                  "sells": 4,
+                  "buyers": 1,
+                  "sellers": 3
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.04008195959",
+                "h24": "0.2035259075"
+              },
+              "reserve_in_usd": "11.3054"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x4200000000000000000000000000000000000006",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "pancakeswap-v3-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0x4ebf02924e6d3f462f06faae265e89c000d68852",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.00001364910822",
+              "base_token_price_native_currency": "0.00000000676173756615557",
+              "quote_token_price_usd": "0.0000147666758336896",
+              "quote_token_price_native_currency": "0.00000000731537805471646",
+              "base_token_price_quote_token": "0.924318267",
+              "quote_token_price_base_token": "1.0818784348",
+              "address": "0x4ebf02924e6d3f462f06faae265e89c000d68852",
+              "name": "CLAWNCH / MOLT 1%",
+              "pool_created_at": "2026-02-01T19:50:55Z",
+              "token_price_usd": "0.0000147666758336896",
+              "fdv_usd": "1476667.5511788",
+              "market_cap_usd": "1476667.58336896",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "-1.26"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                },
+                "h24": {
+                  "buys": 2,
+                  "sells": 1,
+                  "buyers": 2,
+                  "sellers": 1
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.05055681609",
+                "h24": "0.228000431"
+              },
+              "reserve_in_usd": "9.6904"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xa1f72459dfa10bad200ac160ecd78c6b77a747be",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v3-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0xfb00ad2c531d32d1914d9fadffc9bb7ec2719b19",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.00001425142464",
+              "base_token_price_native_currency": "0.00000000713136333713294",
+              "quote_token_price_usd": "2015.18",
+              "quote_token_price_native_currency": "1.0",
+              "base_token_price_quote_token": "0.000000007131363337",
+              "quote_token_price_base_token": "140225641.679622",
+              "address": "0xfb00ad2c531d32d1914d9fadffc9bb7ec2719b19",
+              "name": "MOLT / WETH",
+              "pool_created_at": "2026-02-06T15:10:51Z",
+              "token_price_usd": "0.00001425142464",
+              "fdv_usd": "1425142.43293305",
+              "market_cap_usd": "1425142.464",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "0"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h24": {
+                  "buys": 1,
+                  "sells": 0,
+                  "buyers": 1,
+                  "sellers": 0
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.0",
+                "h24": "0.001211071461"
+              },
+              "reserve_in_usd": "0.2019"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x4200000000000000000000000000000000000006",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "pancakeswap-v2-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0x6162c53786045657454b480fab3bf3539f1f1c00",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.5652758546",
+              "base_token_price_native_currency": "0.00004993255670309792915956",
+              "quote_token_price_usd": "0.000564654795",
+              "quote_token_price_native_currency": "0.0000000498776965994206",
+              "base_token_price_quote_token": "1001.0998924854",
+              "quote_token_price_base_token": "0.0009989013159",
+              "address": "0x6162c53786045657454b480fab3bf3539f1f1c00",
+              "name": "MOLT ETH / MOLT 0.01%",
+              "pool_created_at": "2026-02-01T08:21:43Z",
+              "token_price_usd": "0.000564654795",
+              "fdv_usd": "56465478.2690982",
+              "market_cap_usd": "56465479.5",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "0"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h24": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.0",
+                "h24": "0.0"
+              },
+              "reserve_in_usd": "508026315.036596"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xe3be78982df5945a6be9da1f527aa740630d6777",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v3-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0xd761785f04bac8f8d46aac43bb276729f4f96fdadb27a425055613016b3cd005",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.0004251490262",
+              "base_token_price_native_currency": "0.000000176186958467642",
+              "quote_token_price_usd": "0.9956084801",
+              "quote_token_price_native_currency": "0.00040799947550736",
+              "base_token_price_quote_token": "0.0004318313357",
+              "quote_token_price_base_token": "2315.7189332052",
+              "address": "0xd761785f04bac8f8d46aac43bb276729f4f96fdadb27a425055613016b3cd005",
+              "name": "MOLT / USDC 3.19%",
+              "pool_created_at": "2026-02-01T02:59:01Z",
+              "token_price_usd": "0.0004251490262",
+              "fdv_usd": "42514902.6197976",
+              "market_cap_usd": "42514902.62",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "0"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h24": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.0",
+                "h24": "0.0"
+              },
+              "reserve_in_usd": "5104.3074"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v4-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0xd7883bee45fbd6ff95c4dedac63e30a780387d560f327dfb651d467aa98aa31b",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.0000000001377313277",
+              "base_token_price_native_currency": "0.0000000151822115788648",
+              "quote_token_price_usd": "0.9963509774",
+              "quote_token_price_native_currency": "0.00049808783938469",
+              "base_token_price_quote_token": "0.00003048099226",
+              "quote_token_price_base_token": "32807.3309212789",
+              "address": "0xd7883bee45fbd6ff95c4dedac63e30a780387d560f327dfb651d467aa98aa31b",
+              "name": "MOLT / USDC 0.99%",
+              "pool_created_at": "2026-02-04T08:01:09Z",
+              "token_price_usd": "0.0000000001377313277",
+              "fdv_usd": "13.7731324698",
+              "market_cap_usd": "13.77313277",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "0"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h24": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.0",
+                "h24": "0.0"
+              },
+              "reserve_in_usd": "2750.3134"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v4-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0xa8e1e95682d041b2bf82a842d94c13cbf1a4c13b778e0acc106936310b3585d9",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.0003881512412",
+              "base_token_price_native_currency": "0.000000162024668865354",
+              "quote_token_price_usd": "1.0033850688",
+              "quote_token_price_native_currency": "0.000423404957705947",
+              "base_token_price_quote_token": "0.0003826706937",
+              "quote_token_price_base_token": "2613.2129179527",
+              "address": "0xa8e1e95682d041b2bf82a842d94c13cbf1a4c13b778e0acc106936310b3585d9",
+              "name": "MOLT / USDC 2.89%",
+              "pool_created_at": "2026-02-01T16:13:33Z",
+              "token_price_usd": "0.0003881512412",
+              "fdv_usd": "38815123.2738617",
+              "market_cap_usd": "38815124.12",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "0"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h24": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.0",
+                "h24": "0.0"
+              },
+              "reserve_in_usd": "2131.9156"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v4-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0xfde29185bb57897dd180e13d5f81f952a935ceffa684f4a8faa411c9c5d162a2",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.00001986778718",
+              "base_token_price_native_currency": "0.00000000921329137696616",
+              "quote_token_price_usd": "0.9986583231",
+              "quote_token_price_native_currency": "0.000458548179247187",
+              "base_token_price_quote_token": "0.00002009230828",
+              "quote_token_price_base_token": "49770.289518205",
+              "address": "0xfde29185bb57897dd180e13d5f81f952a935ceffa684f4a8faa411c9c5d162a2",
+              "name": "MOLT / USDbC 1%",
+              "pool_created_at": "2026-04-09T12:06:59Z",
+              "token_price_usd": "0.00001986778718",
+              "fdv_usd": "1986778.67468983",
+              "market_cap_usd": "1986778.718",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "0"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h24": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.0",
+                "h24": "0.0"
+              },
+              "reserve_in_usd": "2077.6188"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v4-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0x1d6530264f9643560f783772b3f58caecd5754f19680b6a04dd5eb5524355357",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.00001826706504",
+              "base_token_price_native_currency": "0.00000000769275759493818",
+              "quote_token_price_usd": "1.0052258435",
+              "quote_token_price_native_currency": "0.000450984245352095",
+              "base_token_price_quote_token": "0.00001705770806",
+              "quote_token_price_base_token": "58624.5231032422",
+              "address": "0x1d6530264f9643560f783772b3f58caecd5754f19680b6a04dd5eb5524355357",
+              "name": "MOLT / USDC 3.898%",
+              "pool_created_at": "2026-03-10T13:58:27Z",
+              "token_price_usd": "0.00001826706504",
+              "fdv_usd": "1826706.46417927",
+              "market_cap_usd": "1826706.504",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "0"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h24": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.0",
+                "h24": "0.0"
+              },
+              "reserve_in_usd": "1250.123"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v4-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0xcbf82e89c7573087a2fa100f197ad341e7bf404acc3f1814558d0fe126fd1e82",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.0001191149786",
+              "base_token_price_native_currency": "0.0000000559322195172882",
+              "quote_token_price_usd": "0.9971220647",
+              "quote_token_price_native_currency": "0.00048138520814251",
+              "base_token_price_quote_token": "0.0001161901499",
+              "quote_token_price_base_token": "8606.5815427496",
+              "address": "0xcbf82e89c7573087a2fa100f197ad341e7bf404acc3f1814558d0fe126fd1e82",
+              "name": "MOLT / USDC 2.1%",
+              "pool_created_at": "2026-03-10T17:16:33Z",
+              "token_price_usd": "0.0001191149786",
+              "fdv_usd": "11911497.600339",
+              "market_cap_usd": "11911497.86",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "0"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h24": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.0",
+                "h24": "0.0"
+              },
+              "reserve_in_usd": "1128.6923"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v4-base",
+                  "type": "dex"
+                }
+              }
+            }
+          },
+          {
+            "id": "base_0x51ac82874d0e632f0623b57f0c55a1fcbcfed1c74394712d91bc38d337561146",
+            "type": "pool",
+            "attributes": {
+              "base_token_price_usd": "0.0004005299674",
+              "base_token_price_native_currency": "0.000000140203777730042",
+              "quote_token_price_usd": "0.9961350926",
+              "quote_token_price_native_currency": "0.000425667832939187",
+              "base_token_price_quote_token": "0.0003293736733",
+              "quote_token_price_base_token": "3036.0653602273",
+              "address": "0x51ac82874d0e632f0623b57f0c55a1fcbcfed1c74394712d91bc38d337561146",
+              "name": "MOLT / USDC 4.999%",
+              "pool_created_at": "2026-01-30T20:31:55Z",
+              "token_price_usd": "0.0004005299674",
+              "fdv_usd": "40052995.866877",
+              "market_cap_usd": "40052996.74",
+              "price_change_percentage": {
+                "m5": "0",
+                "m15": "0",
+                "m30": "0",
+                "h1": "0",
+                "h6": "0",
+                "h24": "0"
+              },
+              "transactions": {
+                "m5": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m15": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "m30": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h1": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h6": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                },
+                "h24": {
+                  "buys": 0,
+                  "sells": 0,
+                  "buyers": 0,
+                  "sellers": 0
+                }
+              },
+              "volume_usd": {
+                "m5": "0.0",
+                "m15": "0.0",
+                "m30": "0.0",
+                "h1": "0.0",
+                "h6": "0.0",
+                "h24": "0.0"
+              },
+              "reserve_in_usd": "569.9415"
+            },
+            "relationships": {
+              "base_token": {
+                "data": {
+                  "id": "base_0xb695559b26bb2c9703ef1935c37aeae9526bab07",
+                  "type": "token"
+                }
+              },
+              "quote_token": {
+                "data": {
+                  "id": "base_0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                  "type": "token"
+                }
+              },
+              "dex": {
+                "data": {
+                  "id": "uniswap-v4-base",
+                  "type": "dex"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rpc": {
+    "decimals_raw": "0x0000000000000000000000000000000000000000000000000000000000000012",
+    "totalSupply_raw": "0x0000000000000000000000000000000000000001431e0fae6d7217caa0000000",
+    "symbol_raw": "0x000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000044d4f4c5400000000000000000000000000000000000000000000000000000000",
+    "name_raw": "0x000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000084d6f6c74626f6f6b000000000000000000000000000000000000000000000000"
+  }
+}
